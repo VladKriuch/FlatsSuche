@@ -1,0 +1,113 @@
+{
+    "locations": {
+        "Berlin": "Berlin",
+        "Hamburg": "Hamburg",
+        "München": "Muenchen",
+        "Frankfurt am Main": "Frankfurt_main",
+        "Hannover": "Hannover",
+        "Leipzig": "Leipzig",
+        "Dresden": "Dresden",
+        "Dortmund": "Dortmund",
+        "Köln": "Koeln",
+        "Düsseldorf": "Duesseldorf",
+        "Bremen": "Bremen",
+        "Stuttgart": "Stuttgart",
+        "Nürnberg": "Nuernberg",
+        "Essen": "Essen",
+        "Bonn": "Bonn",
+        "Kiel": "Kiel",
+        "Rostock": "Rostock"
+    },
+    "ebay": {
+        "base_url": "https://www.ebay-kleinanzeigen.de/s-wohnung-mieten/",
+        "swap": {
+            "0": "+wohnung_mieten.swap_s:nein",
+            "1": "+wohnung_mieten.swap_s:ja",
+            "2": ""
+        },
+        "price_base_url": "preis:",
+        "swap_base_url": "+wohnung_mieten.swap_s:",
+        "city_start": {
+            "Berlin": "berlin/",
+            "Hamburg": "hamburg/",
+            "Muenchen": "muenchen/",
+            "Frankfurt_main": "frankfurt-am-main/",
+            "Hannover": "hannover/",
+            "Leipzig": "leipzig/",
+            "Dresden": "dresden/",
+            "Dortmund": "dortmund/",
+            "Koeln": "koeln/",
+            "Duesseldorf": "duesseldorf/",
+            "Bremen": "bremen/",
+            "Stuttgart": "stuttgart/",
+            "Nuernberg": "nuernberg/",
+            "Essen": "essen/",
+            "Bonn": "bonn/",
+            "Kiel": "kiel/",
+            "Rostock": "rostock/"
+        },
+        "city_end": {
+            "Berlin": "/c203l3331",
+            "Hamburg": "/c203l9409",
+            "Muenchen": "/c203l6411",
+            "Frankfurt_main": "/c203l4292",
+            "Hannover": "/c203l3155",
+            "Leipzig": "/c203l4233",
+            "Dresden": "/c203l3820",
+            "Dortmund": "/c203l1085",
+            "Koeln": "/c203l945",
+            "Duesseldorf": "/c203l2068",
+            "Bremen": "/c203l1",
+            "Stuttgart": "/c203l9280",
+            "Nuernberg": "/c203l6810",
+            "Essen": "/c203l2027",
+            "Bonn": "/c203l1038",
+            "Kiel": "/c203l663",
+            "Rostock": "/c203l137"
+        }
+    },
+    "wg": {
+        "base_url": "https://www.wg-gesucht.de",
+        "swap": {
+            "0": "&exc=2",
+            "1": "&exc=1",
+            "2": ""
+        },
+        "city_start": {
+            "Berlin": "Berlin.8.1",
+            "Hamburg": "Hamburg.55.1",
+            "Muenchen": "Munchen.90.1",
+            "Frankfurt_main": "Frankfurt-am-Main.41.1",
+            "Hannover": "Hannover.57.1",
+            "Leipzig": "Leipzig.77.1",
+            "Dresden": "Dresden.27.1",
+            "Dortmund": "Dortmund.26.1",
+            "Koeln": "Koeln.73.1",
+            "Duesseldorf": "Dusseldorf.30.1",
+            "Bremen": "Bremen.17.1",
+            "Stuttgart": "Stuttgart.124.1",
+            "Nuernberg": "Nurnberg.96.1",
+            "Essen": "Essen.35.1",
+            "Bonn": "Bonn.13.1",
+            "Kiel": ""
+        },
+        "city_end": {
+            "Berlin": "&city_id=8",
+            "Hamburg": "&city_id=55",
+            "Muenchen": "&city_id=55",
+            "Frankfurt_main": "&city_id=41",
+            "Hannover": "&city_id=57",
+            "Leipzig": "&city_id=77",
+            "Dresden": "&city_id=27",
+            "Dortmund": "&city_id=26",
+            "Koeln": "&city_id=73",
+            "Duesseldorf": "&city_id=30",
+            "Bremen": "&city_id=17",
+            "Stuttgart": "&city_id=124",
+            "Nuernberg": "&city_id=96",
+            "Essen": "&city_id=35",
+            "Bonn": "&city_id=13",
+            "Kiel": ""
+        }
+    }
+}

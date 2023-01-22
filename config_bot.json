@@ -1,0 +1,10 @@
+{
+    "bot": {
+        "version": "1.0",
+        "BotToken": "5379519695:AAH6uPntNOaztBcM2OJyFHQC_P3RiacB_ck",
+        "deployBotToken": "5305729563:AAHhZZX2v4IgqJ40xUa1oGzGkzqvCPKtcI4",
+        "CONNECTION_STRING": "mongodb+srv://flatsbottest:flatsbottest12345@tgbottest.rwjvx.mongodb.net/?retryWrites=true&w=majority",
+        "TARGET_DB_NAME": "users",
+        "TARGET_COLLECTION_NAME": "users_collection"
+    }
+}

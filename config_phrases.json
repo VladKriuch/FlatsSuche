@@ -1,0 +1,44 @@
+{
+    "phrases": {
+        "EN": {
+            "MIN_PRICE_HIGHER": "Your min price is higher than max price. Please, enter less than max price.\nYour current max price is {{max_price}}",
+            "MAX_PRICE_LOWER": "Your max price is lower than min price. Please, enter more than min price.\nYour current min price is {{min_price}}",
+            "CHANGED_YOUR_CITY" : "Cool. We changed your city!",
+            "language_selection": "Select your language",
+            "SET_UP_OR_CHANGE_LANGUAGE": "Hey! This bot was created to help you find a flat in Germany.\n\nSelect\n1. To set up the settings\n2. To change the language",
+            "CAN_CONFIGURATE_SETTINGS": "Nice! Now we can configurate your settings.\nSelect an option you need or write 5 to start the search with default settings.",
+            "CONFIGURATE_SETTINGS_MESSAGE":   "1. To select the city. ( Default is entire Germany)\n2. To select min price ( Not set by default )\n3. To select max price ( Not set by default )\n4. SWAP ( with swap and without swap by default )\n5. Start the search",
+            "endWithStart1": "Well done! Now i'll start looking the best options for you.\nI will check for new results every X minutes",
+            "endWithStart2": "For now I`ll send you items from last update Ive made at {time}",
+            "GENERAL_MESSAGE": "If you need something else, please use this options:\n\uD83D\uDCA4 - to change the settings\n\uD83C\uDF10 - to change the language \n\uD83D\uDCB0 - to donate to developers",
+            "selecting_min_price": "Cool. Enter the min price, that you want to have:",
+            "selecting_max_price": "Cool. Enter the max price, that you want to have:",
+            "minPriceEntered": "Your min price is {text} now",
+            "maxPriceEntered": "Your max price is {text} now",
+            "swapChanged": "Okay. I will search {swaptext} for you",
+            "selecting_city": "Please, select your city from our proposals:",
+            "TRY_TO_SET_LANGUAGE_AGAIN": "Please, enter one of the languages you see on your Keyboard, or type EN or GE if you cant see any keyboard",
+            "selecting_swap": "1. To search only swap flats.\n2. To search only no swap flats \n3. To select both options"
+        },
+        "DE": {
+            "MIN_PRICE_HIGHER": "Deine Mindestpreis ist höher als der Höchstpreis. Bitte gib weniger als den Höchstpreis ein.\nDeine aktueller Höchstpreis ist {{max_price}}",
+            "MAX_PRICE_LOWER": "Deine Höchstpreis ist niedriger als der Mindestpreis. Bitte gib mehr als den Mindestpreis ein.\nDeine aktueller Mindestpreis ist {{min_price}}",
+            "CHANGED_YOUR_CITY" : "Cool. Wir haben deinen Stadt geändert!",
+            "language_selection": "Wähle deine Sprache aus",
+            "SET_UP_OR_CHANGE_LANGUAGE": "Hey. Dieser Bot wurde entwickelt, um bei der Suche nach einer Wohnung in Deutschland zu helfen.\n\nSelect\n1. Um die Suche einzurichten\n2. Um die Sprache zu wechseln",
+            "CAN_CONFIGURATE_SETTINGS": "Sehr schön! Jetzt kann ich deinen Einstellungen konfigurieren.\nWähle eine Option aus, die du benötigst, oder gib 5 ein, um die Suche mit den Standardeinstellungen zu starten.",
+            "CONFIGURATE_SETTINGS_MESSAGE": "1. Um die Stadt auszuwählen. ( Standardmäßig ist ganz Deutschland )\n2. Um das Mindestpreis auszuwählen ( Standardmäßig nicht festgelegt )\n3. Um das Höchstpreis auszuwählen ( Standardmäßig nicht festgelegt )\n4. Um das Tausch einzurichten ( Standardmäßig werden Tausch und nicht Tausch Angebote angezeigt )\n5. Um die Suche zu starten",
+            "endWithStart1": "Gut gemacht! Jetzt werde ich anfangen, die besten Optionen für dich zu suchen.\nIch werde alle X Minuten nach neuen Ergebnissen suchen.",
+            "endWithStart2": "Fürs Erste sende ich dir Artikel aus dem letzten Update, das ich um {time} Uhr gemacht habe",
+            "GENERAL_MESSAGE": "Wenn du noch etwas anderes benötigst, verwende  bitte diese Optionen:\n\uD83D\uDCA4 - um die Einstellungen zu ändern\n\uD83C\uDF10 - um die Sprache zu wechseln\n\uD83D\uDCB0 -  um an die Entwickler zu spenden",
+            "selecting_min_price": "Geil. Gib den Mindestpreis ein, den du haben möchtest:",
+            "selecting_max_price": "Geil. Gib den Höchstpreis ein, den du haben möchtest:",
+            "minPriceEntered": "Dein Mindestpreis beträgt {text}",
+            "maxPriceEntered": "Dein Höchstpreis beträgt {text}",
+            "swapChanged": "Okay. Ich werde {swaptext} für dich suchen",
+            "selecting_city": "Bitte wähle deine Stadt aus meinen Vorschlägen aus",
+            "TRY_TO_SET_LANGUAGE_AGAIN": "Bitte gib eine der Sprachen ein, die du auf deine Tastatur siehst, andernfalls gib EN oder GE ein, wenn du keine Tastatur sehen kannst.",
+            "selecting_swap": "1. Um nur Tausch Angebote zu suchen.\n2. Um nur nicht Tausch Angebote zu suchen.\n3. Um beide Optionen auszuwählen"
+        }
+    }
+}
